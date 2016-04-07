@@ -9,3 +9,4 @@ git status      		看结果
 git log					查看历史
 git reset --head HEAD^
 gti reset --head 版本号  版本回退
+git reflog              记录每次命令
