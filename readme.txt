@@ -5,3 +5,4 @@ git add   				添加到仓库
 git commit 				文件提交到仓库
 git commit -m"xxxx"  	-m"本次提交的说明"
 git status      		看结果
+版本回退
